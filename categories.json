@@ -2,9 +2,27 @@
   {
     "name": "हिन्दु पौराणिक कथाएँ",
     "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/mythology.json"
+  },
+  {
+    "name": "ए बी डिवीलीयर्स",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/ABDevelears.json"
+  },
+  {
+    "name": "क्रिकेट विश्वकप 2011",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/cricketWorldCup2011.json"
+  },
+  {
+    "name": "महाभारत प्रश्नोत्तरी",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/mahabharata.json"
+  },
+  {
+    "name": "सचिन तेंदुलकर",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/sachinTendulkar.json"
+  },
+  {
+    "name": "विज्ञान 1900-1901",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/science1900To1901.json"
   }
 
 ]
-
-  
 
