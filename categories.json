@@ -19,6 +19,32 @@
     "name": "सचिन तेंदुलकर",
     "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/sachinTendulkar.json"
   },
+
+  {
+    "name": "एंड्रोइड फोन ",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/androidPhone.json"
+  },
+  {
+    "name": "एप्पल के फोन",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/applePhones.json"
+  },
+  {
+    "name": "नरेन्द्र मोदी",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/narendraModi.json"
+  },
+  {
+    "name": "T20 क्रिकेट विश्वकप 2007 ",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/t20Worldcup2007.json"
+  },
+  {
+    "name": "विंडोज़ ओ. एस.",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/windowsOS.json"
+  },
+  {
+    "name": "सौरमण्डल ",
+    "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/solarSystem.json"
+  },
+
   {
     "name": "विज्ञान 1900-1901",
     "link": "https://raw.githubusercontent.com/Hark16/quizz_app_backend/refs/heads/main/science1900To1901.json"
